@@ -21,14 +21,14 @@ my %WriteMakefileArgs = (
                        'BUILD_REQUIRES' => {},
                        'ABSTRACT' => 'Trace who is loading which perl modules',
                        'EXE_FILES' => [],
-                       'VERSION' => '1.100850',
+                       'VERSION' => '1.100851',
                        'PREREQ_PM' => {
                                         'Test::More' => '0.88',
                                         'Scalar::Util' => '0',
                                         'English' => '0',
                                         'File::Find' => '0',
                                         'File::Temp' => '0',
-                                        'Carp' => '0'
+                                        'Carp' => '0',
                                       },
                        'LICENSE' => 'perl'
                      );

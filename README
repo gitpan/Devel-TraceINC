@@ -2,7 +2,7 @@ NAME
     Devel::TraceINC - Trace who is loading which perl modules
 
 VERSION
-    version 1.100850
+    version 1.100851
 
 SYNOPSIS
         $ perl -MDevel::TraceINC t/01_my_test.t
@@ -39,7 +39,7 @@ AVAILABILITY
     <http://search.cpan.org/dist/Devel-TraceINC/>.
 
     The development version lives at
-    <http://github.com/hanekomu/Devel-TraceINC/>. Instead of sending
+    <http://github.com/marcelgrunauer/Devel-TraceINC/>. Instead of sending
     patches, please fork this project using the standard git and github
     infrastructure.
 
